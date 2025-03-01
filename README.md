@@ -1,1 +1,3 @@
-My Yazi Configuration
+# Yazi
+
+My Yazi configuration.
